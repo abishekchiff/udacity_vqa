@@ -7,6 +7,7 @@
 * vqa.py- This files contains all the code to dowload and organise the data
 * VQA1_Attention_model.ipynb - This file contains the Attention model
 * VQA1_LSTM_Without_elmo.ipynb - This file contains the LSTM without elmo
+* VQA1_elmo_final_notebook_with_prediction_errors - This file is the same as VQA_final except in this the prediction error is demonstrated in the prediction section
 * VQA_final- This is the final model notebook that contains the lstm implementaion with elmo.
 
 
@@ -53,5 +54,5 @@ model.fit_generator()
 
 ###GITHUB
 The performance of the model will be continuted to be improved and all the files will be available in git hub repository.
-[Abishek]()
+[Abishek](https://github.com/abishekchiff/udacity_vqa)
 
